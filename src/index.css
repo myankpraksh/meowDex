@@ -5,9 +5,21 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(38deg,#32eca5,#1163f5);
+  /* min-height: 100vh; */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: Pokemon-solid;
+  src: url(Pokemon\ Solid.ttf);
+}
+@font-face {
+  font-family: Pokemon-hollow;
+  src: url(Pokemon\ Hollow.ttf);
+}
+
