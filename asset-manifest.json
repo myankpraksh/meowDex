@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/meowDex/static/css/main.11926833.css",
+    "main.js": "/meowDex/static/js/main.cc53a998.js",
+    "static/js/787.d4a5c140.chunk.js": "/meowDex/static/js/787.d4a5c140.chunk.js",
+    "static/media/Pokemon Hollow.ttf": "/meowDex/static/media/Pokemon Hollow.47f77ce9939c5330492b.ttf",
+    "static/media/Pokemon Solid.ttf": "/meowDex/static/media/Pokemon Solid.5d60be1f7ff5fcc21fc1.ttf",
+    "index.html": "/meowDex/index.html",
+    "main.11926833.css.map": "/meowDex/static/css/main.11926833.css.map",
+    "main.cc53a998.js.map": "/meowDex/static/js/main.cc53a998.js.map",
+    "787.d4a5c140.chunk.js.map": "/meowDex/static/js/787.d4a5c140.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11926833.css",
+    "static/js/main.cc53a998.js"
+  ]
+}
